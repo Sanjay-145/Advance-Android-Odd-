@@ -141,8 +141,7 @@ public class AIDLColorService extends Service {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
-MainActivity.java
+## MainActivity.java
 
 ```
 package com.example.aidlclient;
@@ -200,12 +199,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
+## AndroidManifest.xml
 
-
-AndroidManifest.xml
-
-
-```java
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
